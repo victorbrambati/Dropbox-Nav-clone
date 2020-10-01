@@ -1,5 +1,5 @@
 <h1 align="center">
-      
+     Dropbox menu clone
 </h1>
 
 <p align="center">
@@ -17,6 +17,7 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/victorbrambati/Dropbox-Nav-clone">
 </p>
+<h4 align="center">scroll the page to see the clip.</h4>
 
 ![App Screenshot](https://res.cloudinary.com/victorbrambati/image/upload/v1601587046/Safari_Big_Sur_-_Dark232_wpa7kd.png)
 
