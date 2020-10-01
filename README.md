@@ -1,5 +1,5 @@
 <h1 align="center">
-     Dropbox menu clone
+     Dropbox navigation clone
 </h1>
 
 <p align="center">
